@@ -5,9 +5,9 @@ import { format } from "date-fns";
 import { Member, Message, Profile } from "@prisma/client";
 import { Loader2, ServerCrash } from "lucide-react";
 
-import { useChatQuery } from "@/hooks/use-chat-query";
-import { useChatSocket } from "@/hooks/use-chat-socket";
-import { useChatScroll } from "@/hooks/use-chat-scroll";
+import { useChatQuery } from "@/src/hooks/use-chat-query";
+import { useChatSocket } from "@/src/hooks/use-chat-socket";
+import { useChatScroll } from "@/src/hooks/use-chat-scroll";
 
 import { ChatWelcome } from "./chat-welcome";
 import { ChatItem } from "./chat-item";

@@ -12,7 +12,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { useModal } from "@/hooks/use-modal-store";
+import { useModal } from "@/src/hooks/use-modal-store";
 import { Button } from "@/components/ui/button";
 
 export const LeaveServerModal = () => {

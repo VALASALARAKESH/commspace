@@ -13,7 +13,7 @@ import { useRouter, useParams } from "next/navigation";
 
 import { UserAvatar } from "@/components/user-avatar";
 import { ActionTooltip } from "@/components/action-tooltip";
-import { cn } from "@/lib/utils";
+import { cn } from "@/src/lib/utils";
 import {
   Form,
   FormControl,
@@ -22,7 +22,7 @@ import {
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { useModal } from "@/hooks/use-modal-store";
+import { useModal } from "@/src/hooks/use-modal-store";
 
 interface ChatItemProps {
   id: string;

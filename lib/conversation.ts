@@ -1,4 +1,4 @@
-import { db } from "@/lib/db";
+import { db } from "@/src/lib/db";
 
 export const getOrCreateConversation = async (memberOneId: string, memberTwoId: string) => {
   let conversation = await findConversation(memberOneId, memberTwoId) || await findConversation(memberTwoId, memberOneId);

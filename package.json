@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-amplify/adapter-nextjs": "^1.0.28",
+    "@aws-amplify/ui-react": "^6.1.8",
     "@clerk/nextjs": "^4.23.2",
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
@@ -41,6 +43,7 @@
     "emoji-mart": "^5.5.2",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.12",
+    "install": "^0.13.0",
     "livekit-client": "^1.13.0",
     "livekit-server-sdk": "^1.2.6",
     "lucide-react": "^0.268.0",
