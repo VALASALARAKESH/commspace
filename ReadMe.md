@@ -3,8 +3,13 @@
 CommSpace is a community communication application developed using React.js, TypeScript, Tailwind CSS, Prisma, Next.js, and MongoDB Atlas. It aims to provide a comprehensive platform for community interactions, including text-based communication, voice calls, and video conferencing. The application supports user roles such as admin, moderator, and guest, facilitating structured community management and individual communication.
 
 ![Server Create](https://github.com/VALASALARAKESH/commspace/assets/105775467/d084f755-8f73-4852-814b-984fd44be265)
-
-
+![Create Server](https://github.com/VALASALARAKESH/commspace/assets/105775467/21d8aed1-4589-4f5d-96e7-127ca17e2ac4)
+![Invite Friends](https://github.com/VALASALARAKESH/commspace/assets/105775467/aac6eb6a-8185-4345-9ee1-adf0e4fd6b1f)
+![Manage users](https://github.com/VALASALARAKESH/commspace/assets/105775467/d6870dae-6e31-4687-a519-ca74e9670536)
+![Group Chat](https://github.com/VALASALARAKESH/commspace/assets/105775467/67c9623a-12db-4dfb-af8a-33b667e42f0a)
+![Personal Chat](https://github.com/VALASALARAKESH/commspace/assets/105775467/fd2eb51d-3c93-446f-a0e5-ad0ea0924ebf)
+![Voice](https://github.com/VALASALARAKESH/commspace/assets/105775467/06ba61bd-5a9a-4f27-8b16-e11e8ed0274a)
+![Video](https://github.com/VALASALARAKESH/commspace/assets/105775467/c2450441-32ad-456d-8515-eb4be4fea724)
 
 
 ## Features
